@@ -1,8 +1,37 @@
 {
   "indexVersion": 1,
   "pr": 1,
-  "updatedAt": "2026-10-19T08:27:07.753Z",
+  "updatedAt": "2026-10-19T21:56:03.449Z",
   "runs": [
+    {
+      "runId": 39331141605,
+      "runUrl": "https://github.com/shukudaidayo/clear-signing-erc7730-registry/actions/runs/39331141605",
+      "headSha": "5fe6c8b67b810e0a8fbdf62f89e41a9acf00c734",
+      "startedAt": "2026-10-19T21:54:49Z",
+      "completedAt": "2026-10-19T21:55:43Z",
+      "generatedAt": "2026-10-19T21:56:03.063Z",
+      "schemaVersion": 1,
+      "summary": {
+        "descriptors": 1,
+        "missingTests": 0,
+        "cases": 4,
+        "byStatus": {
+          "rust-clear-signing": {
+            "pass": 4,
+            "fail": 0,
+            "error": 0,
+            "skipped": 0
+          },
+          "sourcify-ts-clear-signing": {
+            "pass": 4,
+            "fail": 0,
+            "error": 0,
+            "skipped": 0
+          }
+        },
+        "disagreements": 0
+      }
+    },
     {
       "runId": 39222713367,
       "runUrl": "https://github.com/shukudaidayo/clear-signing-erc7730-registry/actions/runs/39222713367",
